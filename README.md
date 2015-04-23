@@ -6,3 +6,5 @@ This program will generate an HTML webpage from a list movies stored in a sqlite
 ## How to run
 `python entertainment_center.py`
 
+## System Requirements
+ Tested in Python 2.7.6
